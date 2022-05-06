@@ -1,4 +1,4 @@
-# BTG Core (Bitcoin Gold Core)
+# BTG
 
 [![Build Status](https://travis-ci.org/BTCGPU/BTCGPU.svg?branch=master)](https://travis-ci.org/BTCGPU/BTCGPU)
 
